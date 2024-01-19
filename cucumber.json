@@ -1,0 +1,9 @@
+{
+    "default":{
+        "require":[
+            "steps/Loginsteps.js",
+            "page/Loginpage.js",
+            "utility/TestHooks.js"
+        ]
+    }
+}
